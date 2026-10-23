@@ -1,0 +1,51 @@
+stat_id,stat,market,metric,value,unit,data_month,as_of
+1,tracked,all,listings_recorded,14676854,count,2026-09,2026-10-05
+1,tracked,fr,listings_recorded,3333469,count,2026-09,2026-10-05
+1,tracked,de,listings_recorded,2731225,count,2026-09,2026-10-05
+1,tracked,es,listings_recorded,3067574,count,2026-09,2026-10-05
+1,tracked,it,listings_recorded,2869737,count,2026-09,2026-10-05
+1,tracked,pt,listings_recorded,2674849,count,2026-09,2026-10-05
+1,tracked,all,observed_departures_since_2026-08-31,77564,count,2026-09,2026-10-05
+2,departures,all,observed_departures,16821,count,2026-09,2026-10-05
+2,departures,all,median_asking,30.0,eur,2026-09,2026-10-05
+3,concentration,all,top3_brands_share_of_departures,41.3,pct,2026-09,2026-10-05
+3,concentration,all,top10_brands_share_of_departures,70.0,pct,2026-09,2026-10-05
+4,topbrand:Stone Island,fr,observed_departures,926,count,2026-09,2026-10-05
+4,topbrand:Stone Island,fr,share_of_departures,14.2,pct,2026-09,2026-10-05
+5,topbrand:Patagonia,de,observed_departures,1045,count,2026-09,2026-10-05
+5,topbrand:Patagonia,de,share_of_departures,17.63,pct,2026-09,2026-10-05
+6,topbrand:Fred Perry,es,observed_departures,1199,count,2026-09,2026-10-05
+6,topbrand:Fred Perry,es,share_of_departures,15.22,pct,2026-09,2026-10-05
+7,topbrand:Fred Perry,it,observed_departures,718,count,2026-09,2026-10-05
+7,topbrand:Fred Perry,it,share_of_departures,15.43,pct,2026-09,2026-10-05
+8,topbrand:Fred Perry,pt,observed_departures,857,count,2026-09,2026-10-05
+8,topbrand:Fred Perry,pt,share_of_departures,16.06,pct,2026-09,2026-10-05
+8,topbrand:Stone Island,pt,observed_departures,857,count,2026-09,2026-10-05
+8,topbrand:Stone Island,pt,share_of_departures,16.06,pct,2026-09,2026-10-05
+9,marketmedian,pt,median_asking,26.0,eur,2026-09,2026-10-05
+9,marketmedian,it,median_asking,30.0,eur,2026-09,2026-10-05
+10,priciest:Golden Goose,all,median_asking,130.0,eur,2026-09,2026-10-05
+11,cheapest:Zara,all,median_asking,12.5,eur,2026-09,2026-10-05
+12,spread:Gucci,pt,median_asking,80.0,eur,2026-09,2026-10-05
+12,spread:Gucci,it,median_asking,125.0,eur,2026-09,2026-10-05
+13,spread:Nike,pt,median_asking,35.0,eur,2026-09,2026-10-05
+13,spread:Nike,it,median_asking,50.0,eur,2026-09,2026-10-05
+14,cattop:Hoodies,all,share_of_departures,22.29,pct,2026-09,2026-10-05
+14,cattop:Hoodies,all,median_asking,35.0,eur,2026-09,2026-10-05
+15,catpair:Jackets,all,share_of_departures,17.63,pct,2026-09,2026-10-05
+15,catpair:Jackets,all,median_asking,49.0,eur,2026-09,2026-10-05
+15,catpair:Sneakers,all,share_of_departures,15.01,pct,2026-09,2026-10-05
+15,catpair:Sneakers,all,median_asking,49.0,eur,2026-09,2026-10-05
+16,catmarket:Hoodies,de,share_of_departures,21.9,pct,2026-09,2026-10-05
+16,catmarket:Hoodies,pt,share_of_departures,23.95,pct,2026-09,2026-10-05
+17,under20,all,share_asking_under_20_eur,33.6,pct,2026-09,2026-10-05
+17,under20,all,share_asking_under_10_eur,12.8,pct,2026-09,2026-10-05
+17,under20,fr,share_asking_under_20_eur,30.9,pct,2026-09,2026-10-05
+17,under20,pt,share_asking_under_20_eur,36.1,pct,2026-09,2026-10-05
+18,over100,all,share_asking_100_eur_or_more,14.2,pct,2026-09,2026-10-05
+18,over100,de,share_asking_100_eur_or_more,12.4,pct,2026-09,2026-10-05
+18,over100,fr,share_asking_100_eur_or_more,16.6,pct,2026-09,2026-10-05
+19,speedfast:Patagonia,all,median_hours_first_seen_to_departure,2.9,hours,2026-09,2026-10-05
+19,speedfast:Stone Island,all,median_hours_first_seen_to_departure,2.9,hours,2026-09,2026-10-05
+19,speedfast:Fred Perry,all,median_hours_first_seen_to_departure,3.2,hours,2026-09,2026-10-05
+20,speedslow:Canada Goose,all,median_hours_first_seen_to_departure,13.4,hours,2026-09,2026-10-05

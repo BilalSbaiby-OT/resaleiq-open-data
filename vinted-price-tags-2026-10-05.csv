@@ -1,0 +1,26 @@
+table,key,n,value_pct_or_eur,extra
+market,fr,148,81.1,median_eur=65.0
+market,de,293,79.5,median_eur=75.0
+market,es,133,79.7,median_eur=90.0
+market,it,114,86.8,median_eur=94.0
+market,pt,148,73.0,median_eur=61.5
+band,under 20,113,49.6,share_pct=8.4
+band,20 to 49.99,306,70.3,share_pct=22.8
+band,50 to 99.99,372,78.5,share_pct=27.7
+band,100 to 249.99,383,89.3,share_pct=28.5
+band,250 and over,171,88.3,share_pct=12.7
+brand,Golden Goose,165,88.5,median_eur=130.0
+brand,Canada Goose,214,84.6,median_eur=190.0
+brand,Ami Paris,254,82.7,median_eur=57.0
+brand,Stone Island,131,77.1,median_eur=65.0
+brand,Maison Margiela,105,70.5,median_eur=98.0
+top_tag,50.0,56,4.2,
+top_tag,130.0,56,4.2,
+top_tag,150.0,51,3.8,
+top_tag,20.0,46,3.4,
+top_tag,90.0,43,3.2,
+top_tag,40.0,41,3.0,
+top_tag,60.0,38,2.8,
+top_tag,25.0,37,2.8,
+top_tag,30.0,35,2.6,
+top_tag,15.0,35,2.6,
