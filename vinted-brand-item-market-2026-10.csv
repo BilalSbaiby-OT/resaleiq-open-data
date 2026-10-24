@@ -1,0 +1,100 @@
+month,level,market,brand,item,departures_n,median_asking_eur,median_ci95_lo_eur,median_ci95_hi_eur,p25_asking_eur,p75_asking_eur,top_price_share_pct,first_day,last_day
+2026-10,brand_item_all,all,New Balance,Sneakers,1368,35.0,35.0,36.0,25.0,42.0,12.4,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Stone Island,Hoodies,832,55.0,50.0,60.0,35.0,89.96,6.4,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Canada Goose,Jackets,737,229.0,200.0,250.0,100.0,379.0,5.0,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Ami Paris,Hoodies,572,58.0,55.0,60.0,40.0,85.0,8.2,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Nike,Sneakers,476,33.0,31.99,33.33,27.0,35.0,18.7,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Adidas,Sneakers,401,35.0,33.0,35.0,23.0,45.0,12.0,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Patagonia,Jackets,217,50.0,45.0,53.0,40.0,65.0,8.8,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Fred Perry,Shirts,194,10.5,10.0,12.0,8.12,20.0,12.9,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Puma,Sneakers,150,45.99,45.0,48.0,35.25,50.0,13.3,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Balenciaga,Sneakers,142,80.0,60.0,100.0,40.0,190.0,7.7,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Ami Paris,Shirts,101,55.0,50.0,60.0,34.99,80.0,6.9,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Ami Paris,T-Shirts,98,25.0,20.0,30.0,15.0,40.0,12.2,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Canada Goose,Hoodies,98,49.99,42.0,55.0,35.0,69.99,11.2,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Stone Island,Jackets,98,80.0,70.0,100.0,51.25,138.71,5.1,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Patagonia,Hoodies,94,45.0,40.0,50.0,35.0,55.0,10.6,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Maison Margiela,Hoodies,70,80.0,60.0,100.0,55.0,129.25,7.1,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,UGG Australia,Sneakers,63,60.0,40.0,85.0,35.0,97.5,7.9,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Canada Goose,Coats,58,117.5,69.99,250.0,52.5,350.0,8.6,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,UGG Australia,Hoodies,56,20.0,17.5,25.0,15.0,30.0,12.5,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Maison Margiela,Jackets,39,130.0,70.0,189.0,64.75,195.0,7.7,2026-10-01,2026-10-23
+2026-10,brand_item_all,all,Fred Perry,Hoodies,35,22.5,15.0,30.0,13.5,36.5,11.4,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,New Balance,Sneakers,758,35.0,35.0,36.0,25.0,42.88,11.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Stone Island,Hoodies,429,50.0,45.0,54.9,35.0,80.0,7.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Canada Goose,Jackets,343,250.0,229.0,290.0,140.0,400.0,5.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Nike,Sneakers,227,33.0,30.0,33.33,27.0,35.0,18.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Ami Paris,Hoodies,220,55.0,50.0,60.0,40.0,85.0,10.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Adidas,Sneakers,203,35.0,30.0,35.0,25.0,45.0,16.3,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Patagonia,Jackets,137,52.0,49.0,55.0,40.0,65.0,8.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Puma,Sneakers,84,45.0,40.0,45.99,35.0,55.0,10.7,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Balenciaga,Sneakers,75,80.0,60.0,120.0,46.0,200.0,8.0,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Fred Perry,Shirts,69,12.0,10.0,14.0,9.0,18.0,15.9,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Patagonia,Hoodies,59,41.0,39.0,50.0,35.0,52.95,13.6,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Maison Margiela,Sneakers,52,99.5,90.0,135.0,90.0,157.5,23.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Canada Goose,Hoodies,49,50.0,40.0,65.0,35.0,70.0,14.3,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Ami Paris,Shirts,34,55.0,35.0,65.0,26.25,65.0,11.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Ami Paris,T-Shirts,33,20.0,19.0,40.0,18.0,60.0,21.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,UGG Australia,Sneakers,31,49.0,39.0,90.0,34.5,95.0,9.7,2026-10-01,2026-10-23
+2026-10,brand_item_market,de,Stone Island,Jackets,30,80.0,48.0,115.0,42.0,118.75,10.0,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,New Balance,Sneakers,678,35.0,32.0,35.0,24.99,40.0,13.4,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Canada Goose,Jackets,365,230.0,200.0,270.0,120.0,380.0,5.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Nike,Sneakers,247,33.0,30.0,33.33,27.0,35.0,24.7,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Adidas,Sneakers,245,35.0,33.0,35.0,25.0,42.0,17.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Stone Island,Hoodies,208,79.97,74.95,89.95,50.0,110.0,4.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Ami Paris,Hoodies,194,65.0,55.0,70.0,45.5,85.0,9.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Fred Perry,Shirts,85,10.0,9.0,14.9,9.0,20.0,18.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Balenciaga,Sneakers,68,82.5,60.0,105.0,43.75,150.0,8.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Canada Goose,Hoodies,50,46.25,40.0,55.0,35.0,60.0,12.0,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Patagonia,Jackets,48,45.95,40.0,55.0,37.25,59.96,10.4,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Stone Island,Jackets,47,90.0,79.95,139.95,70.0,147.47,8.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Ami Paris,Shirts,38,60.0,50.0,80.0,46.25,80.0,13.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Ami Paris,T-Shirts,38,27.5,20.0,32.0,20.0,46.25,15.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,UGG Australia,Sneakers,38,65.0,40.0,100.0,39.25,120.0,10.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Canada Goose,Coats,36,100.0,65.0,250.0,57.5,312.5,11.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,es,Patagonia,Hoodies,35,45.0,37.0,54.99,35.0,60.0,8.6,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,New Balance,Sneakers,689,35.0,32.0,35.0,24.0,40.0,12.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Stone Island,Hoodies,406,50.0,45.0,50.0,32.0,76.5,5.9,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Canada Goose,Jackets,302,250.0,200.0,250.0,80.0,350.0,7.3,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Nike,Sneakers,239,30.0,30.0,33.0,27.0,35.0,13.4,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Ami Paris,Hoodies,188,55.0,50.0,60.0,40.0,82.0,7.4,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Adidas,Sneakers,185,35.0,30.0,35.0,23.0,44.0,14.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Balenciaga,Sneakers,72,87.5,60.0,105.0,50.0,155.0,11.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Patagonia,Jackets,72,50.0,42.0,55.0,40.0,59.25,11.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Golden Goose,Sneakers,63,130.0,130.0,140.0,125.0,150.0,23.8,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Canada Goose,Hoodies,47,45.0,35.0,55.0,32.5,60.0,14.9,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Fred Perry,Shirts,41,10.0,9.0,15.0,8.0,20.0,14.6,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Stone Island,Jackets,39,75.0,50.0,100.0,44.0,112.5,7.7,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,Puma,Sneakers,36,39.5,35.0,45.99,30.0,50.0,13.9,2026-10-01,2026-10-23
+2026-10,brand_item_market,fr,UGG Australia,Sneakers,30,45.0,33.0,70.0,30.75,75.25,10.0,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,New Balance,Sneakers,535,35.0,32.0,35.0,22.25,40.0,10.3,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Canada Goose,Jackets,314,220.0,180.0,250.0,95.75,350.0,6.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Stone Island,Hoodies,274,75.0,65.0,80.0,49.23,105.0,4.0,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Nike,Sneakers,249,31.99,30.0,33.33,27.0,35.0,20.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Ami Paris,Hoodies,197,50.0,50.0,59.0,40.0,85.0,9.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Adidas,Sneakers,186,35.0,30.0,35.0,25.0,43.5,15.6,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Balenciaga,Sneakers,77,80.0,60.0,110.0,45.0,190.0,10.4,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Patagonia,Jackets,76,50.0,42.0,55.0,39.88,65.0,10.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Fred Perry,Shirts,71,12.0,9.0,15.0,8.25,20.0,14.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Canada Goose,Hoodies,45,50.0,40.0,65.0,35.0,70.0,8.9,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Patagonia,Hoodies,36,48.25,39.0,55.0,35.0,59.99,11.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Stone Island,Jackets,36,92.0,65.0,120.0,62.0,139.95,11.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Ami Paris,T-Shirts,32,25.0,18.0,30.0,16.75,30.5,15.6,2026-10-01,2026-10-23
+2026-10,brand_item_market,it,Ami Paris,Shirts,30,52.5,39.0,75.0,36.0,75.0,10.0,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,New Balance,Sneakers,738,35.0,35.0,35.0,25.0,40.0,12.6,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Canada Goose,Jackets,380,250.0,200.0,280.0,120.0,380.0,5.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Stone Island,Hoodies,377,50.0,47.0,55.0,35.0,75.0,6.9,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Nike,Sneakers,248,33.0,30.0,33.0,27.0,35.0,20.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Adidas,Sneakers,229,35.0,33.0,35.0,25.0,45.0,15.7,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Ami Paris,Hoodies,195,65.0,56.0,70.0,42.0,90.0,9.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Fred Perry,Shirts,98,10.0,9.0,12.0,8.62,15.0,16.3,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Balenciaga,Sneakers,73,80.0,60.0,105.0,40.0,170.0,8.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Patagonia,Jackets,69,45.0,42.0,50.0,39.0,53.0,14.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Canada Goose,Hoodies,52,50.0,40.0,65.0,35.0,70.0,9.6,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Ami Paris,T-Shirts,41,25.0,19.0,32.0,15.0,40.0,12.2,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Patagonia,Hoodies,37,50.0,38.9,55.0,35.0,59.99,13.5,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,UGG Australia,Sneakers,34,60.0,39.0,90.0,36.0,97.5,14.7,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Canada Goose,Coats,33,100.0,50.0,250.0,50.0,250.0,12.1,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Ami Paris,Shirts,31,55.0,35.0,70.0,32.5,75.0,9.7,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Maison Margiela,Hoodies,30,77.5,59.99,120.0,56.25,125.25,10.0,2026-10-01,2026-10-23
+2026-10,brand_item_market,pt,Stone Island,Jackets,30,65.0,30.0,80.0,30.0,87.5,10.0,2026-10-01,2026-10-23
