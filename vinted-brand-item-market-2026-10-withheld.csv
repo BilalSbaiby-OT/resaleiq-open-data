@@ -1,0 +1,13 @@
+month,level,market,brand,item,departures_n,most_common_asking_eur,most_common_price_share_pct,reason
+2026-10,brand_item_market,pt,Maison Margiela,Sneakers,129,90.0,39.5,one exact asking price is over 25% of departures
+2026-10,brand_item_market,de,Golden Goose,Sneakers,82,130.0,28.0,one exact asking price is over 25% of departures
+2026-10,brand_item_market,es,Golden Goose,Sneakers,79,130.0,27.8,one exact asking price is over 25% of departures
+2026-10,brand_item_market,es,Maison Margiela,Sneakers,101,90.0,25.7,one exact asking price is over 25% of departures
+2026-10,brand_item_market,it,Maison Margiela,Sneakers,79,98.0,31.6,one exact asking price is over 25% of departures
+2026-10,brand_item_market,fr,Maison Margiela,Sneakers,89,90.0,30.3,one exact asking price is over 25% of departures
+2026-10,brand_item_market,it,Golden Goose,Sneakers,51,130.0,47.1,one exact asking price is over 25% of departures
+2026-10,brand_item_market,pt,Puma,Sneakers,69,48.0,29.0,one exact asking price is over 25% of departures
+2026-10,brand_item_market,es,Puma,Sneakers,58,48.0,34.5,one exact asking price is over 25% of departures
+2026-10,brand_item_all,all,Maison Margiela,Sneakers,210,90.0,26.2,one exact asking price is over 25% of departures
+2026-10,brand_item_all,all,Golden Goose,Sneakers,195,130.0,29.7,one exact asking price is over 25% of departures
+2026-10,brand_item_all,all,UGG Australia,Caps,39,15.0,43.6,one exact asking price is over 25% of departures
